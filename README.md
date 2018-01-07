@@ -9,7 +9,7 @@
 1.  https://docs.oracle.com/javase/tutorial/ -- рано или поздно придется заглянуть в решения от создателей Java
 
 
-# Online resources ccode
+# Online resources with examples of code for studying Java
 Sorted from easiest to difficult
 1.  http://programmingbydoing.com/ - a very easy tasks
   Solutions: https://github.com/search?o=desc&q=programmingbydoing&s=stars&type=Repositories&utf8=%E2%9C%93
